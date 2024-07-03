@@ -1,0 +1,10 @@
+118c7de9eff9e55c2e9a2e68cf5f86f7 *DESCRIPTION
+c50d903329a4f71e5fb8033d3272c338 *NAMESPACE
+adc4beaa7637b2d89044f61526f9b71e *R/brm_surv.R
+929839a12d3f13dc41adf6052740edb0 *R/rmstBayespara-package.R
+394d9f90968e37240497cbcb9b4543b4 *R/rmstpara.R
+940f998a17ab06d33b02c84d542183b1 *man/brm_surv.Rd
+ad5c7a754af3c3b2f0f9c8b2e0ea5634 *man/rmstBayespara-package.Rd
+ad809125befefc283e17dd5509b5a2f8 *man/rmstpara.Rd
+08d98fd5afa6aa8dd69d4d190f101fa9 *tests/testthat.R
+66332c6abfbfae11b55fa74df15bb2e5 *tests/testthat/test_w.R
